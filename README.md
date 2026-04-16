@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01k5zwv4gpcg4kzryxskspg9hy.png" width="150" style="border-radius:50%" />
+</p>
 
-<!--
-**irfanmusthafaa/irfanmusthafaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Irfan Mustafa 👋
 
-Here are some ideas to get you started:
+🧑🏻‍💻 Frontend Engineer from Indonesia  
+⚡ Specialized in React.js, Next.js, and TypeScript  
+📊 Experienced in building dashboard & data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I love crafting clean UI, optimizing performance, and building scalable apps  
+
+📫 Reach me at:  
+irfanmustafadev@gmail.com  
+
+🌐 Let's connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfan%20Mustafa-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmustafadev/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&logoColor=white)](https://irfanm-portfolio.vercel.app/)  
