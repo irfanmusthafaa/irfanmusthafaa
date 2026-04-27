@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01k5zwv4gpcg4kzryxskspg9hy.png" width="150" style="border-radius:50%" />
-</p>
-
 # Hi, I'm Irfan Mustafa 👋
 
 🧑🏻‍💻 Frontend Engineer from Indonesia  
